@@ -1,5 +1,9 @@
 # ff14-Input-words
-FF14国服翻译的输入法词条库（qq拼音）
+FF14国服翻译的输入法词条库
+
+items.txt——QQ拼音
+
+items_ms.dat——微软输入法自定义短语
 
 数据由python脚本处理生成。日后把脚本改一改更交互友好些发出来
 
